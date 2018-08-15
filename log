@@ -1,0 +1,33 @@
+commit d5a684b8e4a8e2e9a37fc801486c91c3473d8ea3 (HEAD -> master)
+Author: Lenin Aparicio <ohkmalganis@gmail.com>
+Date:   Tue Aug 14 20:05:52 2018 -0400
+
+    adicionando contenido al ultimo commit
+
+ index.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d89a3e24f34cdca4a244faffe2f981c0ef530645
+Author: Lenin Aparicio <ohkmalganis@gmail.com>
+Date:   Tue Aug 14 20:05:18 2018 -0400
+
+    Se adiciono la carpeta assets
+
+    Posteriormente se metieron las carpetas img, css, js dentro
+
+ assets/css/styles.css |   0
+ assets/img/image1.jpg | Bin 0 -> 60431 bytes
+ assets/img/image2.jpg | Bin 0 -> 53405 bytes
+ assets/js/main.js     |   0
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 1e97600433cbd66004973f87b4dd5220dd22f891
+Author: Lenin Aparicio <ohkmalganis@gmail.com>
+Date:   Tue Aug 14 19:56:35 2018 -0400
+
+    Cambio de nombre al archivo leeme
+
+ readme => readme.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b207c45237f13933a77b998078af446601211a90
